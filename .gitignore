@@ -16,5 +16,6 @@ dist/
 venv/
 env/
 
-# Local backups
+# Local backups and private internal documentation
 backup/
+docs/
