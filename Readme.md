@@ -53,24 +53,9 @@ Monitor execution in real time with 4 live KPI cards:
 
 ## 📸 Interface Preview
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  ⚡ Excel & CSV Splitter Pro                                  ● READY   │
-├───────────────────────────────┬────────────────────────────────────────┤
-│ 1. SOURCE FILE                │  📈 ROWS      ⚡ SPEED     ⏱ TIME      │
-│   [ Drag & Drop File Here ]   │  6,655        12,400 r/s  00:03 (ETA)  │
-│                               ├────────────────────────────────────────┤
-│ 2. BATCH & EXPORT SETTINGS    │  Execution Progress               65%  │
-│   Batch Size: [ 2000 rows ]   │  [█████████████████████░░░░░░░░]       │
-│   Format: (•) Excel  ( ) CSV  ├────────────────────────────────────────┤
-│                               │  [ Data Preview ]  [ Terminal Log ]    │
-│ 3. COLUMN SELECTION           │  ┌──┬──────────────┬────────┬────────┐ │
-│   [🔍 Filter column names... ] │  │# │ LC_Email     │ Status │ Reason │ │
-│   [ Select All ] [ Clear ]    │  ├──┼──────────────┼────────┼────────┤ │
-│   [✔] LC_Email                │  │1 │ user@mail.com│ clean  │ High   │ │
-│   [✔] LC_Status               │  └──┴──────────────┴────────┴────────┘ │
-└───────────────────────────────┴────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="assets/preview.png" alt="Excel & CSV Splitter Pro UI Screenshot" width="100%" />
+</p>
 
 ---
 
