@@ -1,0 +1,16 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts (keep dist/ for the standalone executable)
+build/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+
+# Environment files
+.env
+venv/
+env/
